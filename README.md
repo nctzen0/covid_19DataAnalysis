@@ -1,4 +1,4 @@
-# covid-19_india_data
+# covid-19 India Data Analysis 
 A Dashboard showing the spread of COVID-19 in India and it's States.
   - Visualization of Cummulative and Daily spread across India and it's states.
   - Shows detailed data of States and Districts
